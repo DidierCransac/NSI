@@ -1,0 +1,7 @@
+Install git
+aller dans le repertoire.
+git status
+git add essai
+git commit -m "J'ai modifié"
+git push
+Il faut autoriser les ...
